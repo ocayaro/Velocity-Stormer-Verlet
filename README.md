@@ -1,6 +1,6 @@
 # Velocity-Stormer-Verlet
 
-For a user guide of this program, please download and read the enclosed pdf file:
+To see a PDF User Guide of this program and detailed illustrative example of the usage of the program, please refer to the accompanying pdf file at:
 
 https://github.com/ocayaro/Velocity-Stormer-Verlet/blob/master/VSV%20user%20guide.pdf
 
