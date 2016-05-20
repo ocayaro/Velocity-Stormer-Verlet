@@ -2,7 +2,7 @@
 
 To see a PDF User Guide of this program and detailed illustrative example of the usage of the program, please refer to the accompanying pdf file at:
 
-https://github.com/ocayaro/Velocity-Stormer-Verlet/blob/master/VSV%20user%20guide.pdf
+https://github.com/ocayaro/Velocity-Stormer-Verlet/blob/master/UserGuide_VSV.pdf
 
 In essence, the VSV program calculates particle parameters i.e. position, velocity, kinetic energy, potential energy and forces in a particle system. The time-evolution of parameters such as position are calculated using the technique of Velocity-Stormer-Verlet integration.
 
